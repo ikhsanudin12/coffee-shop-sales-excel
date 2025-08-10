@@ -1,74 +1,89 @@
-# coffee-shop-sales-excel
+☕ **Maven Roasters Sales Analysis**
 
-☕ Maven Roasters Sales Analysis
-
-📌 Project Overview
+📌** Project Overview**
 This project analyzes sales data for Maven Roasters, a fictional coffee shop chain with three locations in New York City.
 Using Microsoft Excel, I performed data cleaning, created pivot tables, and built an interactive dashboard to uncover sales insights.
 
-📂 Dataset
+📂 **Dataset**
+
 The dataset contains transaction-level records, where each row represents a single product sale.
 
-Columns:
+**Columns**:
 
-transaction_id — Unique ID for each transaction
+- `transaction_id` — Unique ID for each transaction
 
-transaction_date — Date of purchase
+- `transaction_date` — Date of purchase
 
-transaction_time — Time of purchase
+- `transaction_time` — Time of purchase
 
-transaction_qty — Quantity purchased
+- `transaction_qty` — Quantity purchased
 
-store_id — Store location code
+- `store_id` — Store location code
 
-store_location — Store location name
+- `store_location` — Store location name
 
-product_id — Product code
+- `product_id` — Product code
 
-unit_price — Price per unit
+- `unit_price` — Price per unit
 
-product_category — Product category (e.g., Coffee, Tea, Bakery)
+- `product_category` — Product category (e.g., Coffee, Tea, Bakery)
 
-product_type — Sub-category
+- `product_type` — Sub-category
 
-product_detail — Specific product name
+- `product_detail` — Specific product name
 
-📊 Analysis Performed
-Sales Trend Analysis — Daily, monthly, and hourly sales patterns.
+📊 **Analysis Performed**
+**Sales Trend Analysis** — Daily, monthly, and hourly sales patterns.
 
-Top Products & Categories — Identified best-selling items and categories.
+**Top Products & Categories** — Identified best-selling items and categories.
 
-Store Performance — Compared sales across the three NYC locations.
+**Store Performance** — Compared sales across the three NYC locations.
 
-Customer Buying Patterns — Peak purchase times and seasonal trends.
+**Customer Buying Patterns** — Peak purchase times and seasonal trends.
 
-Revenue Contribution — Top-selling products highlighted with conditional formatting.
+**Revenue Contribution** — Top-selling products highlighted with conditional formatting.
 
-🛠 Tools Used
-Microsoft Excel
+🛠** Tools Used**
+- Microsoft Excel
 
-Pivot Tables
+  - Pivot Tables
 
-Slicers & Timelines
+  - Slicers & Timelines
 
-Conditional Formatting
+  - Conditional Formatting
 
-Charts & Visualization
+  - Charts & Visualization
 
-Data Cleaning in Excel
 
-📈 Dashboard Features
-Interactive filters for Date, Store Location, and Product Category
+📈 **Dashboard Features**
+Interactive filters for **Date**, and **Store Location**
 
-Highlighted Top-Selling Products
+**Highlighted Top-Selling Products**
 
 Sales trends by day and hour
 
-Store-wise performance comparison
-
-📷 Dashboard Preview
+**Store-wise performance comparison **
+📷** Dashboard Preview**
 
 <img width="1571" height="941" alt="coffee_shop_sales_dashboard" src="https://github.com/user-attachments/assets/39b45d17-07c9-4012-89d4-72cae271b4d6" />
+
+🚀 **How to Use**
+1. Download the Excel file from this repository.
+
+2. Open it in Microsoft Excel.
+
+3. Use the slicers and timelines to explore the data.
+
+
+**💡 Key Insights**
+- The busiest sales hours is **morning**
+
+- Coffee drinks dominate sales volume and revenue.
+
+- The Hell's Kitchen store consistently leads in sales.
+
+- A few top products contribute a large share of total revenue.
+
 
 
 
