@@ -67,7 +67,8 @@ Interactive filters for **Date**, and **Store Location**
 Sales trends by day and hour
 
 **Store-wise performance comparison **
-📷** Dashboard Preview**
+
+📷 **Dashboard Preview**
 
 <img width="1571" height="941" alt="coffee_shop_sales_dashboard" src="https://github.com/user-attachments/assets/39b45d17-07c9-4012-89d4-72cae271b4d6" />
 
