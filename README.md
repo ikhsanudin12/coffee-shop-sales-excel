@@ -1,6 +1,7 @@
 ☕ **Maven Roasters Sales Analysis**
 
-📌** Project Overview**
+📌**Project Overview**
+
 This project analyzes sales data for Maven Roasters, a fictional coffee shop chain with three locations in New York City.
 Using Microsoft Excel, I performed data cleaning, created pivot tables, and built an interactive dashboard to uncover sales insights.
 
@@ -33,6 +34,7 @@ The dataset contains transaction-level records, where each row represents a sing
 - `product_detail` — Specific product name
 
 📊 **Analysis Performed**
+
 **Sales Trend Analysis** — Daily, monthly, and hourly sales patterns.
 
 **Top Products & Categories** — Identified best-selling items and categories.
@@ -43,7 +45,8 @@ The dataset contains transaction-level records, where each row represents a sing
 
 **Revenue Contribution** — Top-selling products highlighted with conditional formatting.
 
-🛠** Tools Used**
+🛠 **Tools Used**
+
 - Microsoft Excel
 
   - Pivot Tables
@@ -56,6 +59,7 @@ The dataset contains transaction-level records, where each row represents a sing
 
 
 📈 **Dashboard Features**
+
 Interactive filters for **Date**, and **Store Location**
 
 **Highlighted Top-Selling Products**
@@ -68,6 +72,7 @@ Sales trends by day and hour
 <img width="1571" height="941" alt="coffee_shop_sales_dashboard" src="https://github.com/user-attachments/assets/39b45d17-07c9-4012-89d4-72cae271b4d6" />
 
 🚀 **How to Use**
+
 1. Download the Excel file from this repository.
 
 2. Open it in Microsoft Excel.
@@ -75,7 +80,8 @@ Sales trends by day and hour
 3. Use the slicers and timelines to explore the data.
 
 
-**💡 Key Insights**
+💡 **Key Insights**
+
 - The busiest sales hours is **morning**
 
 - Coffee drinks dominate sales volume and revenue.
